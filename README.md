@@ -1,27 +1,15 @@
-# Rock-Paper-Scissors Game 🪨📄✂️
+# Rock Paper Scissors – Python CLI Game 🎮
 
-A simple command-line Rock-Paper-Scissors game in Python.
+A simple command-line version of the classic Rock-Paper-Scissors game built with Python.
+
+## Features
+
+- User vs Computer
+- Random choice for computer
+- Input validation
+- Simple and fun!
 
 ## How to Run
 
 ```bash
 python main.py
-
-Features
-Player vs Computer mode
-Score tracking
-Replay option
-
-pycache/
-*.pyc
-Then run:
-```bash
-git rm -r --cached __pycache__/
-git commit -m "Remove cached bytecode files"
-git push
-
- If you plan to add enhancements, here are some common packages you might include:
-Library	Use Case	Line in requirements.txt
-colorama	Colored terminal output	colorama
-tkinter	GUI (comes with Python, no need)	—
-pytest	For writing test cases	pytest
